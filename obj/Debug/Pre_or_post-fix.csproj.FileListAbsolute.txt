@@ -1,0 +1,6 @@
+D:\Projects\C#\HellishWorld\Pre_or_post-fix\bin\Debug\Pre_or_post-fix.exe.config
+D:\Projects\C#\HellishWorld\Pre_or_post-fix\bin\Debug\Pre_or_post-fix.exe
+D:\Projects\C#\HellishWorld\Pre_or_post-fix\bin\Debug\Pre_or_post-fix.pdb
+D:\Projects\C#\HellishWorld\Pre_or_post-fix\obj\Debug\Pre_or_post-fix.csprojResolveAssemblyReference.cache
+D:\Projects\C#\HellishWorld\Pre_or_post-fix\obj\Debug\Pre_or_post-fix.exe
+D:\Projects\C#\HellishWorld\Pre_or_post-fix\obj\Debug\Pre_or_post-fix.pdb
